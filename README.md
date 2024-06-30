@@ -2,15 +2,6 @@
 Soy un desarrollador backend con 23 años de edad, apasionado por la tecnología y el desarrollo de software. Te especializas en construir y mantener la lógica del servidor y las bases de datos de aplicaciones web, asegurando un rendimiento óptimo y una experiencia fluida para los usuarios
 
 
-<h2 align="center">🌐  Socials:</h2>
-<p align="center">
-  <a href="https://discord.gg/Janblack">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/in/jandry-zambrano-8672b9274">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 <h3 align="center">💻 Lenguajes:</h3>
 <p align="center">
