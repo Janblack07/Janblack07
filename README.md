@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador backend con 23 años de edad, apasionado por la tecnología y el desarrollo de software. Te especializas en construir y mantener la lógica del servidor y las bases de datos de aplicaciones web, asegurando un rendimiento óptimo y una experiencia fluida para los usuarios
+Soy un desarrollador backend con 23 años de edad, apasionado por la tecnología y el desarrollo de software. Me especializo en construir y mantener la lógica del servidor y las bases de datos de aplicaciones web, asegurando un rendimiento óptimo y una experiencia fluida para los usuarios
 
 
 
